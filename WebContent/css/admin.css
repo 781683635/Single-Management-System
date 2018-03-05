@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.stu-titv1{padding: 0 0 60px;}
+.bor-stuv1{border-top: 1px solid #003368; border-bottom:1px solid #003368;border-left: 5px solid #003368; border-right:1px solid #003368;}
+.edu-bgbv1{background-image: url(../images/admin/stu_bg.jpg);}
+.stu-pv1{font-size: 52px;}
+.stu-pv2{font-size: 32px;}
+.stu-pv3{font-size: 18px; line-height: 25px;}
+.stu-periods{top: 20px; right: 0px;}
+.swiper-containerv2 {width: 100%;}
+.swiper-paginationv2{z-index: 99;}
+.swiper-paginationv2 span{width: 15px;height: 15px; margin: 5px 10px;}

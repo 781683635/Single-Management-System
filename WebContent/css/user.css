@@ -1,0 +1,21 @@
+﻿ @charset"utf-8";
+ .border{
+    height:8px;
+}
+.h1{text-indent: -9999px;margin-top: -60px;}
+ /* ====导航条CSS==== */
+.tit-current a{  background: #00ADEB;color: #fff}
+.tit-current a:hover{ text-decoration: none; background: #00ADEB !important;color: #fff !important}
+/* ====导航条CSSEND==== */
+
+/* 用户中心首页css */
+.use-img{width:80px;height:80px;box-shadow:0px 0px 3px 3px #F7E0DF;-webkit-box-shadow:0px 0px 3px 3px #F7E0DF;-moz-box-shadow:0px 0px 3px 3px #F7E0DF}
+.xinyong{background: url(../img/user/xinyong.png) no-repeat;width:20px; height: 22px;display: inline-block;vertical-align: bottom}
+.xinyongno{background: url(../img/user/xinyongno.png) no-repeat;width:20px; height: 22px;display: inline-block;vertical-align: bottom}
+.img240-135{width: 240px; height: 135px}
+.swi-prev1{background-size:35%;left:-20px}
+.swi-next1{background-size:35%;right:-20px}
+/* 用户中心页END */
+
+.userchange-form div div em{color: red;}
+.user-table-button{background: }
